@@ -1,0 +1,17 @@
+**/db/
+**/incremental_db/
+**/simulation/
+**/*.rpt
+**/*.aux
+**/*.summary
+**/*.log
+**/*.out
+**/*.pin
+**/*.pof
+**/*.qpf
+**/*.qsf
+**/*.qws
+**/*.sof
+**/*.v.bak
+**/*.done
+**/*.synctex.gz
