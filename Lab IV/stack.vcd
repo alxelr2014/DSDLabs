@@ -1,0 +1,206 @@
+$date
+	Sun Jul 16 13:12:18 2023
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ns
+$end
+$scope module stack_tb $end
+$scope module stack0 $end
+$var wire 1 ! clk $end
+$var wire 4 " data_in [3:0] $end
+$var wire 1 # pop $end
+$var wire 1 $ push $end
+$var wire 1 % rstN $end
+$var wire 1 & full $end
+$var wire 1 ' empty $end
+$var parameter 32 ( DEPTH $end
+$var parameter 32 ) WIDTH $end
+$var reg 4 * data_out [3:0] $end
+$var reg 9 + hotbit_address [8:0] $end
+$var integer 32 , i [31:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+b100 )
+b1000 (
+$end
+#0
+$dumpvars
+bx ,
+bx +
+bx *
+x'
+x&
+0%
+0$
+0#
+b0 "
+0!
+$end
+#5
+0'
+0&
+b1 +
+b1000 ,
+1!
+#10
+0!
+1%
+#15
+1!
+#20
+0!
+b1 "
+1$
+#25
+1'
+b10 +
+b1000 ,
+1!
+#30
+0!
+b10 "
+#35
+b100 +
+b1000 ,
+1!
+#40
+0!
+b11 "
+#45
+b1000 +
+b1000 ,
+1!
+#50
+0!
+b100 "
+#55
+b10000 +
+b1000 ,
+1!
+#60
+0!
+b101 "
+#65
+b100000 +
+b1000 ,
+1!
+#70
+0!
+b110 "
+#75
+b1000000 +
+b1000 ,
+1!
+#80
+0!
+b111 "
+#85
+b10000000 +
+b1000 ,
+1!
+#90
+0!
+b1000 "
+#95
+1&
+b100000000 +
+b1000 ,
+1!
+#100
+0!
+b1001 "
+#105
+1!
+#110
+0!
+1#
+0$
+#115
+0&
+b10000000 +
+b1000 *
+b1001 ,
+1!
+#120
+0!
+#125
+b1000000 +
+b111 *
+b1001 ,
+1!
+#130
+0!
+#135
+b100000 +
+b110 *
+b1001 ,
+1!
+#140
+0!
+#145
+b10000 +
+b101 *
+b1001 ,
+1!
+#150
+0!
+#155
+b1000 +
+b100 *
+b1001 ,
+1!
+#160
+0!
+#165
+b100 +
+b11 *
+b1001 ,
+1!
+#170
+0!
+#175
+b10 +
+b10 *
+b1001 ,
+1!
+#180
+0!
+#185
+0'
+b1 +
+b1 *
+b1001 ,
+1!
+#190
+0!
+#195
+1!
+#200
+0!
+#205
+1!
+#210
+0!
+b1 "
+1$
+#215
+1'
+b10 +
+b1000 ,
+1!
+#220
+0!
+b10 "
+#225
+b100 +
+b1000 ,
+1!
+#230
+0!
+0$

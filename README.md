@@ -3,4 +3,4 @@ Emad Zinoghli
 
 Ata Rahimzadeh
 
-Sepenta (= 15) Rahmanizadeh
+Sepanta (= 15) Rahmanizadeh
